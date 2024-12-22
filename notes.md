@@ -41,3 +41,6 @@ We’ll leverage the Shadcn library (or an equivalent) for user interface compon
     For email templates, we’re using react-emails:
         Templates allow us to create beautiful and interactive emails.
         All templates are stored in the emails folder for easy access and management.
+
+
+in nextjs the routing is automatically done, and to create routes we create an api folder in the app folder and in there we create folder for the routes we want to handle and in that specific folder we create a route.js file which handles that route
